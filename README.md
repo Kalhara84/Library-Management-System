@@ -19,7 +19,7 @@ Welcome to the Library Management System (LMS)! This comprehensive software solu
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/yourusername/library-management-system.git](https://github.com/cycotechnolgies/LibararyManagementSystem.git)
+   [git clone https://github.com/Kalhara84/Library-Management-System.git](https://github.com/Kalhara84/Library-Management-System.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -44,15 +44,6 @@ Welcome to the Library Management System (LMS)! This comprehensive software solu
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Acknowledgments
-Thank you to all team members for their contributions and collaboration.
-- **Minidu Oshan** - 2022t01584
-- **Shammi Nethupul** - 2022t01523
-- **Eranda Nimasara** - 2022t01570
-- **Dilru Rathnasooriya** - 2022t01
-- **Matheesha V.** - 2022t0124
-- **Lakshitha Ekanayake** - 2022t01527
 
----
 
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
